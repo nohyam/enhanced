@@ -7,3 +7,5 @@ Material 3와 라이트/다크 토글을 추가했습니다.
 - Material 3 + `ColorScheme.fromSeed`
 - Light/Dark 분리(`theme`/`darkTheme`) + 앱 내 토글(`themeMode`)
 - AppBar/배경 하드코딩 제거 → 테마 기반
+
+https://github.com/user-attachments/assets/16d2ede7-7108-436c-8760-965875c2128e
